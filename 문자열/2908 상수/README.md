@@ -11,3 +11,6 @@
 |input|answer|
 |:---:|:---:|
 |734 893|437|
+
+##### sol
+![코테_1](https://user-images.githubusercontent.com/63344889/86922220-41ec0300-c167-11ea-95d5-215a3b394cf1.png)
